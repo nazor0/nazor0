@@ -1,4 +1,8 @@
-## Hi there 👋
+....
+
+- Hi there 👋, I'm Chinazor
+- 🔭 I’m a Computer Engineering student at SDSU
+- 👀 I'm interested in Computer Networks and VLSI systems.
 
 <!--
 **nazor0/nazor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
